@@ -1,1 +1,1 @@
-[CV @ivan-sidorenko](https://github.com/Ivan-Sidorenko/rsschool-cv/blob/rsschool-cv-html/index.html)
+[CV @ivan-sidorenko](https://github.com/Ivan-Sidorenko/rsschool-cv/index.html)
